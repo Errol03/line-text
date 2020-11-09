@@ -9,4 +9,4 @@
 參考資訊為中央部氣象局提供的熱門潛水地點，給所有喜歡自由潛水的海人參考。
 
 - [儲存庫](https://github.com/Errol03/line-text)
-Channel ID：1655114261
+Channel ID：@163vnokf
