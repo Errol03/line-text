@@ -2,10 +2,6 @@
   "type": "module",
   "name": "20201020",
   "version": "1.0.0",
-<<<<<<< HEAD
-=======
-  "description": "",
->>>>>>> main
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
@@ -34,10 +30,6 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1"
-<<<<<<< HEAD
   },
   "description": ""
-=======
-  }
->>>>>>> main
 }
