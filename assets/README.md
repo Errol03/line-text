@@ -15,3 +15,9 @@ Channel ID：@163vnokf
 - [儲存庫](https://github.com/Errol03/line-text)
 
 Channel ID：@163vnokf
+
+## 使用說明示意圖
+
+![1.](1607082939167.jpg)
+![2.](295649.jpg)
+![2.](295648.jpg)
